@@ -1,1 +1,1 @@
-Simple HTML page to practice for [theOdinProject](https://www.theodinproject.com/)'s foundation course and [Digital Innovation One](https://web.digitalinnovation.one/) git/github lession.
+👨🏽‍🍳 Simple HTML page to practice for [theOdinProject](https://www.theodinproject.com/)'s foundation course and [Digital Innovation One](https://web.digitalinnovation.one/) git/github lession.
